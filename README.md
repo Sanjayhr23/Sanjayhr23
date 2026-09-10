@@ -1,7 +1,6 @@
 # Hi, I'm Sanjay H R 👋
 
-### GIS Developer | Full-Stack Developer
-
+### GIS Developer
 I work on geospatial applications, spatial databases,
 web GIS, and full-stack development.
 
@@ -12,7 +11,7 @@ web GIS, and full-stack development.
 - GeoServer
 - QGIS
 - GDAL
-- PMTiles
+- MBTiles
 - GeoJSON
 - Vector Tiles
 

@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Sanjay H R 👋
 
-<!--
-**Sanjayhr23/Sanjayhr23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### GIS Developer | Full-Stack Developer
 
-Here are some ideas to get you started:
+I work on geospatial applications, spatial databases,
+web GIS, and full-stack development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+### GIS & Geospatial
+- PostGIS
+- GeoServer
+- QGIS
+- GDAL
+- PMTiles
+- GeoJSON
+- Vector Tiles
+
+### Development
+- React
+- Python
+- FastAPI
+- PostgreSQL
+- JavaScript
+- React Native
+
+### Tools
+- Git
+- GitHub
+- Docker
+- VS Code
+- 
+## 🚀 Areas of Work
+
+- Web GIS Applications
+- Spatial Data Management
+- GIS APIs
+- Municipal GIS
+- Infrastructure Mapping
+- Field Data Collection
+- Spatial Analysis
+- Geospatial Dashboards
